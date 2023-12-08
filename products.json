@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "adidas kicks",
+        "price": 1200,
+        "image": "1.png"
+    },
+    {
+        "id": 2,
+        "name": "nike drop kicks",
+        "price": 1200,
+        "image": "2.png"
+    },
+    {
+        "id": 3,
+        "name": "nike zoom kicks",
+        "price": 1800,
+        "image": "3.png"
+    },
+    {
+        "id": 4,
+        "name": "purple&white nike kicks",
+        "price": 1580,
+        "image": "4.png"
+    },
+    {
+        "id": 5,
+        "name": "dell latitude e5550",
+        "price": 1290,
+        "image": "10.png"
+    },
+    {
+        "id": 6,
+        "name": "canon camera",
+        "price": 1910,
+        "image": "11.png"
+    },
+    {
+        "id": 7,
+        "name": "denim jacket",
+        "price": 1010,
+        "image": "12.png"
+    },
+    {
+        "id": 8,
+        "name": "led strip lights",
+        "price": 1500,
+        "image": "13.png"
+    },
+    {
+        "id": 9,
+        "name": "colored jersey",
+        "price": 1290,
+        "image": "6.webp"
+    },
+    {
+        "id": 10,
+        "name": "green t-shirt",
+        "price": 1910,
+        "image": "7.webp"
+    },
+    {
+        "id": 11,
+        "name": "denim cap",
+        "price": 1010,
+        "image": "8.webp"
+    },
+    {
+        "id": 12,
+        "name": "iphone 12",
+        "price": 1500,
+        "image": "9.png"
+    }
+]
